@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikanda Prabu</h1>
 <h3 align="center">A passionate Mechanical Engineering Student With some software integration! Excited in Automation</h3>
-img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.c...](https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w)")
 
 - 🌱 I’m currently learning *UI/UX, Frontend development, Mechanical Designs*
 
@@ -13,7 +12,7 @@ img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.c...](http
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manikanda prabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikanda prabu" height="30" width="40" /></a>
-<a href="https://instagram.com/_lonely_wizard_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lonely_wizard" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
